@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ad857846f0caf143bcf3f7f3c006803, type: 3}
+  m_Name: "9-\u865B\u7A7A\u60E1\u9B54"
+  m_EditorClassIdentifier: 
+  number: 9
+  pName: "\u865B\u7A7A\u60E1\u9B54"
+  atk: 2
+  def: 0
+  hp: 30
+  ep: 4
+  sanity: 20
+  Psprite: {fileID: 21300000, guid: baad860eb1b18264b91d05a260afeb17, type: 3}
+  Effect: {fileID: 21300000, guid: 23e9f90ede3375c45ab686531ce5171f, type: 3}
+  Active: {fileID: 21300000, guid: 33d63fb4006628f42a17e203852c582f, type: 3}
